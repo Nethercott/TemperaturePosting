@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 '''
 Psudo Code
 
